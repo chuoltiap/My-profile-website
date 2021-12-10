@@ -15,10 +15,15 @@ body{
     align-items: center;
     justify-content: space-between
 }
+.navbar img{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+}
 .navbar h1{
     color: honeydew;
     font-family: monospace;
-    margin-left: 5%;
+    margin-left: 5px;
 }
 .links{
     padding: 5px 20px;
@@ -110,4 +115,8 @@ span{
 }
 .logo{
 color: white;
+}
+.navbar .toplogo{
+    display: flex;
+    align-items: center;
 }
