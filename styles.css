@@ -120,3 +120,6 @@ color: white;
     display: flex;
     align-items: center;
 }
+head img{
+    border-radius: 50%;
+}
